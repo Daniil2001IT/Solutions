@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'Noto Sans Condensed';
+    src: url('NotoSansCondensed-ExtraBold.eot');
+    src: url('NotoSansCondensed-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('NotoSansCondensed-ExtraBold.woff2') format('woff2'),
+        url('NotoSansCondensed-ExtraBold.woff') format('woff'),
+        url('NotoSansCondensed-ExtraBold.ttf') format('truetype'),
+        url('NotoSansCondensed-ExtraBold.svg#NotoSansCondensed-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Sans Condensed';
+    src: url('NotoSansCondensed-Black.eot');
+    src: url('NotoSansCondensed-Black.eot?#iefix') format('embedded-opentype'),
+        url('NotoSansCondensed-Black.woff2') format('woff2'),
+        url('NotoSansCondensed-Black.woff') format('woff'),
+        url('NotoSansCondensed-Black.ttf') format('truetype'),
+        url('NotoSansCondensed-Black.svg#NotoSansCondensed-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Sans Condensed';
+    src: url('NotoSansCondensed-Bold.eot');
+    src: url('NotoSansCondensed-Bold.eot?#iefix') format('embedded-opentype'),
+        url('NotoSansCondensed-Bold.woff2') format('woff2'),
+        url('NotoSansCondensed-Bold.woff') format('woff'),
+        url('NotoSansCondensed-Bold.ttf') format('truetype'),
+        url('NotoSansCondensed-Bold.svg#NotoSansCondensed-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Sans Condensed';
+    src: url('NotoSansCondensed-BlackItalic.eot');
+    src: url('NotoSansCondensed-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('NotoSansCondensed-BlackItalic.woff2') format('woff2'),
+        url('NotoSansCondensed-BlackItalic.woff') format('woff'),
+        url('NotoSansCondensed-BlackItalic.ttf') format('truetype'),
+        url('NotoSansCondensed-BlackItalic.svg#NotoSansCondensed-BlackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Sans Condensed';
+    src: url('NotoSansCondensed-BoldItalic.eot');
+    src: url('NotoSansCondensed-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('NotoSansCondensed-BoldItalic.woff2') format('woff2'),
+        url('NotoSansCondensed-BoldItalic.woff') format('woff'),
+        url('NotoSansCondensed-BoldItalic.ttf') format('truetype'),
+        url('NotoSansCondensed-BoldItalic.svg#NotoSansCondensed-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
